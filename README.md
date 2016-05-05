@@ -13,4 +13,4 @@ When it comes to programming , there are various nuances of application programm
 **Why this notes?:**
 Let me take an example - Data Security. How can we make sure that your application has its data secured to a certain level? There is no starting point for this and many get lost in searching for best practices, browsing through hundred's of pages. In this notes I tried to compile my experience with various implementations & learning with a more meaningful & easy to understand approach. It is definitely not a one stop solution, but definitely a starting point. Enjoy!!!!
 
-Please go through Wiki fo further details.
+Please go through [Wiki](https://github.com/yelurinaveen/TechNotes/wiki) fo further details.
